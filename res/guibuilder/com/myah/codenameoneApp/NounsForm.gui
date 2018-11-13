@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="Nouns" scrollableY="true" name="NounsForm">
+  <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  scrollableY="true" scrollVisible="true" name="Container_1">
+    <component type="Button" text="Back" name="Button_1" actionEvent="true">
+    </component>
+  </component>
+  <component type="Label" uiid="Labeldef" text="Definition" styles="font:4.0mm;" name="Label">
+  </component>
+  <component type="SpanLabel" text="A noun is generally defined as the name of any person, place or thing. In other words, a noun is an identifier." name="Span_Label">
+  </component>
+  <component type="Label" uiid="Labelkj" text="Types of Nouns" styles="font:4.0mm;" name="Label_1">
+  </component>
+  <component type="SpanLabel" text="There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. There are several types of noun. We are going to be looking at few ones here. " rTL="false" scrollVisible="true" name="Span_Label_1">
+  </component>
+</component>

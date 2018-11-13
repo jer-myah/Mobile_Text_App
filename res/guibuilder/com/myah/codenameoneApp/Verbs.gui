@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="Verbs" scrollableY="true" name="Verbs">
+  <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  name="Flow_Layout">
+    <component type="Button" text="Back" name="Button" actionEvent="true">
+    </component>
+  </component>
+  <component type="Label" text="Definition" styles="font:4.0mm;" name="Label">
+  </component>
+  <component type="SpanLabel" text="Addressing modes are an aspect of the instruction set architecture in most central processing unit (CPU) designs. The various addressing modes that are defined in a given instruction set architecture define how machine language instructions in that architecture identify the operand (or operands) of each instruction. An addressing mode specifies how to calculate the effective memory address of an operand by using information held in registers and/or constants contained within a machine instruction or elsewhere. In computer programming, addressing modes are primarily of interest to compiler writers and to those who write code directly in assembly language. Note that there is no generally accepted way of naming the various addressing modes. In particular, different authors and computer manufacturers may give different names to the same addressing mode, or the same names to different addressing modes. Furthermore, an addressing mode which, in one given architecture, is treated as a single addressing mode may represent functionality that, in another architecture, is covered by two or more addressing modes. For example, some complex instruction set computer (CISC) computer architectures, such as the Digital Equipment Corporation (DEC) VAX, treat registers and literal/immediate constants as just another addressing mode. Others, such as the IBM System/390 and most reduced instruction set computer (RISC) designs, encode this information within the instruction. Thus, the latter machines have three distinct instruction codes for copying one register to another, copying a literal constant into a register, and copying the contents of a memory location into a register, while the VAX has only a single " styles="font:3.0mm;" name="Span_Label">
+  </component>
+  <component type="Label" text="Types of Verbs" styles="font:4.0mm;" name="Label_1">
+  </component>
+  <component type="SpanLabel" text="Example 1: Within a subroutine a programmer will mainly be interested in the parameters and the local variables, which will rarely exceed 64 KB, for which one base register (the frame pointer) suffices. If this routine is a class method in an object-oriented language, then a second base register is needed which points at the attributes for the current object (this or self in some high level languages).Example 1: Within a subroutine a programmer will mainly be interested in the parameters and the local variables, which will rarely exceed 64 KB, for which one base register (the frame pointer) suffices. If this routine is a class method in an object-oriented language, then a second base register is needed which points at the attributes for the current object (this or self in some high level languages)." styles="font:3.0mm;" name="Span_Label_1">
+  </component>
+  <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  name="Container">
+    <component type="Button" uiid="Buttong" text="Simple Verbs" styles="font:3.0mm; transparency:68;" name="Button_1" actionEvent="true">
+    </component>
+  </component>
+</component>

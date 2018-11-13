@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="English Text" scrollableY="false" name="MenuForm">
+  <component type="Button" text="Nouns" name="Button_1" actionEvent="true">
+  </component>
+  <component type="Button" text="Verbs" name="Button_2" actionEvent="true">
+  </component>
+  <component type="Button" uiid="Button" text="Adjectives" styles="font:3.0mm;" scrollVisible="true" name="adjective" actionEvent="true">
+  </component>
+  <component type="Button" text="Exit" name="Button_3" actionEvent="true">
+  </component>
+</component>

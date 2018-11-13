@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="Adjectives" scrollableY="true" name="adjectives">
+  <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  name="top">
+    <component type="Button" text="Back" name="Button_1" actionEvent="true">
+    </component>
+  </component>
+  <component type="Container" layout="BoxLayout" boxLayoutAxis="Y"  name="Container_1">
+    <component type="Label" text="Definition" name="Label_1">
+    </component>
+    <component type="SpanLabel" text="Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective. Adjectives are words used to describe a noun, verb or an adjective." name="Span_Label">
+    </component>
+  </component>
+  <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  name="Container">
+    <component type="Button" text="Back" name="Button" actionEvent="true">
+    </component>
+  </component>
+</component>
